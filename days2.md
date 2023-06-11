@@ -1,7 +1,9 @@
+## ![Alt Text](./articleImg/2.png)
 
-ENGLISH : 
+------------------------------ ENGLISH ------------------------------
 
 # Days 2
+
 Anyone can create their own Engine, but it must comply with ECMAScript standards.
 In general, there are two ways to communicate with our "Machine," not only in JavaScript but also in Python or Java...
 
@@ -20,11 +22,10 @@ TypeScript also takes our code and compiles it into JS.
 ## Fusion
 That's where Google got the idea to merge the two in order to make the most of Google Maps and Chrome. With V8, the code is called "Just In Time - JIT." It is launched and interpreted, but we have a kind of scan called a "Profiler" that analyzes the code and provides it to our compiler for optimization when it is given to the CPU.
 
--------------------------------------------
-
-FRENCH :
+------------------------------ FRENCH ------------------------------
 
 # Days 2
+
 Tout le monde peut créer son Engine mais il doit être conforme aux normes ECMAScript.
 De manière générale il existe deux façons de communiquer avec notre "Machine" pas seulement en Js mais en Python ou Java...
 

@@ -1,10 +1,8 @@
-# Days 3
-
 ## ![Alt Text](./articleImg/3.png)
 
----
+------------------------------ FRENCH ------------------------------
 
-<!-- FRENCH: -->
+# Days 3
 
 Avec le V8 de Google, c'est l'inline caching qui sauvegarde ça dans un coin pour empêcher la répétition du code et donner directement accès au résultat. Par exemple, si je fais une boucle.
 
@@ -41,8 +39,8 @@ man2.bouche = true;
 Le fait d'avoir changé l'ordre de déclaration va ralentir notre compilateur, car il aura déjà pris une 'habitude' dès la première déclaration. Voilà pourquoi il faut coder proprement et comprendre les choses en profondeur.
 
 
----
-<!-- ENGLISH : -->
+------------------------------ English ------------------------------
+
 With Google's V8, it's **inline caching** that saves it on the side to prevent code repetition and provide direct access to the result. For example, if I have a loop:
 
 ```javascript

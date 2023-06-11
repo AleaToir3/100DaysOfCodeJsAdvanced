@@ -5,10 +5,10 @@ I have decided to understand certain things more deeply, and I have embarked on 
 
 # Here we go!
 
-[Day-1](day1.md)
+[Day 1](day1.md)
 
-[Days-2](days2.md)
+[Days 2](days2.md)
 
-[Days-3](days3.md)
+[Days 3](days3.md)
 
-[Days-4](days4.md)
+[Days 4](days4.md)
